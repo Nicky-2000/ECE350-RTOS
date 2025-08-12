@@ -32,4 +32,4 @@ main_svc_cw.c # System call handling & KCD
 4. Run and interact via UART terminal.
 
 ## Authors
-Built by **Nicky Khorasani** and three teammates (Winter 2022).
+Built by **Nicky Khorasani** and three teammates.
